@@ -142,7 +142,14 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 LOGIN_URL='/loginUser'
 django_heroku.settings(locals())
 import dj_database_url 
-prod_db  =  dj_database_url.config(conn_max_age=500)
-DATABASES['default'].update(prod_db)
+#prod_db  =  dj_database_url.config(conn_max_age=500)
+#DATABASES['default'].update(prod_db)
 
 
+import os, subprocess, dj_database_url
+
+bashCommand = 'heroku config:get DATABASE_URL -a app_name” #Use your thiziribhdportfolio'
+
+output = subprocess.check_output(['bash','-c', bashCommand]).decode('utf-8') # executing the bash command and converting byte to string
+
+DATABASES['default'] = dj_database_url.config(default=output,conn_max_age=600, ssl_require=True) #making connection to heroku DB without having to set DATABASE_URL env variable
