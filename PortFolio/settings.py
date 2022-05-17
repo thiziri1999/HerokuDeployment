@@ -82,10 +82,22 @@ WSGI_APPLICATION = 'PortFolio.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
+       'ENGINE': 'django.db.backends.sqlite3',
         'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     }
 }
+#DATABASES = {
+   # 'default': {
+      #  'ENGINE': 'django.db.backends.postgresql_psycopg2',
+       # 'NAME': 'dddebksc135847',
+       # 'USER': 'ombkioackfmjrf',
+        #'PASSWORD': 'f60f0e7fdd7923849da7a6f1403580ad06233580a002f6a1771edf14c6699835',
+
+        #'HOST': 'ec2-3-224-164-189.compute-1.amazonaws.com',
+        #'PORT': '5432',     
+        
+    #}
+#}
 
 
 # Password validation
