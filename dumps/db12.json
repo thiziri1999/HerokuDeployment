@@ -1,0 +1,1179 @@
+[
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$9u4iujeVzu9Q$7X0kM8A7oFgKnBr2BzTAJuifzvhJ39p/crcu+XZkrXY=",
+        "last_login": "2022-05-14T14:00:40.954",
+        "is_superuser": true,
+        "username": "thiziri",
+        "first_name": "",
+        "last_name": "",
+        "email": "bouhamdanithiziri@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-05-09T01:12:17.111",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "fields": {
+        "password": "pbkdf2_sha256$180000$abeAFuKUjFK6$IXVz92NQ7iahGRkl6pzIZxxH6bHc/1Zbqqz02UBtSvo=",
+        "last_login": "2022-05-18T13:15:57.766",
+        "is_superuser": true,
+        "username": "THIZIRI1999",
+        "first_name": "",
+        "last_name": "",
+        "email": "bouhamdanithiziri@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2022-05-15T18:44:35.278",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "27rr6k8ban0jxljoq5tysxte6a72dzgh",
+    "fields": {
+        "session_data": "OWQ5MDc5ODFmNjE1MmZkOTM4YTUwNGI4MzM3MDhjZTk5ZjQyNGJmMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIxZjI5NTAwOWE4Mzg1NGVjZDEyNWQ4YTc3MGM2MTdjN2ExYTAwN2UwIn0=",
+        "expire_date": "2022-05-23T01:12:31.934"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "oulus93o2piqb660e7n594014tyxkexv",
+    "fields": {
+        "session_data": "NDU3NDI5NWMyYjJjMmIzOTMyNjY4NGZjMDk0MWNkMzZjNzFhNmM0Mjp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZjIzM2ZmNTM4OGJkMGQ1YTE2OTk5MjcyYjYxMjY0Yzg1ZDdkMGZjIn0=",
+        "expire_date": "2022-05-29T18:45:09.777"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "t43t8ysxjy3bjtusih98rl7zcd4mgf54",
+    "fields": {
+        "session_data": "OWQ5MDc5ODFmNjE1MmZkOTM4YTUwNGI4MzM3MDhjZTk5ZjQyNGJmMzp7Il9hdXRoX3VzZXJfaWQiOiIxIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIxZjI5NTAwOWE4Mzg1NGVjZDEyNWQ4YTc3MGM2MTdjN2ExYTAwN2UwIn0=",
+        "expire_date": "2022-05-28T14:00:40.967"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "tnwkko0ovackhhzt7odao4n5ukgee97q",
+    "fields": {
+        "session_data": "NDU3NDI5NWMyYjJjMmIzOTMyNjY4NGZjMDk0MWNkMzZjNzFhNmM0Mjp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZjIzM2ZmNTM4OGJkMGQ1YTE2OTk5MjcyYjYxMjY0Yzg1ZDdkMGZjIn0=",
+        "expire_date": "2022-06-01T13:15:57.776"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "xz4uxvjzvbtdeumc7qfraw7au5nbpheb",
+    "fields": {
+        "session_data": "NDU3NDI5NWMyYjJjMmIzOTMyNjY4NGZjMDk0MWNkMzZjNzFhNmM0Mjp7Il9hdXRoX3VzZXJfaWQiOiIyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZjIzM2ZmNTM4OGJkMGQ1YTE2OTk5MjcyYjYxMjY0Yzg1ZDdkMGZjIn0=",
+        "expire_date": "2022-06-01T10:40:56.835"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 1,
+    "fields": {
+        "title": "MyMovies",
+        "technologie": "PHP ,MySQL",
+        "description": "Cette application web est une application de location de films. L'utilisateur peut se connecter ,louer et consulter ses locations.                                             L'administrateur peut g\u00e9rer les films et les utilisateurs , il peut aussi consulter les locations et son tableau de bord .",
+        "image": "PortfoliosAPP/images/Capture_IOZqR4K.png",
+        "url": "PortfoliosAPP/images/final_62812ed461866b006ed2cd9d_39092.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 2,
+    "fields": {
+        "title": "HogwartsLibrary",
+        "technologie": "Api Fetch",
+        "description": "J'ai cr\u00e9\u00e9 cette application pour pratiquer l'utilisation de l'API Javascript Fetch ainsi que pour tester le fonctionnement de mon application RestfulApi.",
+        "image": "PortfoliosAPP/images/capture3_UiQ9483.png",
+        "url": "PortfoliosAPP/images/harryPotter.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 3,
+    "fields": {
+        "title": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "technologie": "Angular",
+        "description": "j'ai cr\u00e9e cette application web pour pratiquer ce que j'ai appris sur le framework Angular.",
+        "image": "PortfoliosAPP/images/capture3_dVnRZgF.png",
+        "url": "PortfoliosAPP/images/BMI.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 4,
+    "fields": {
+        "title": "API des personnages Harry Potter",
+        "technologie": "Restful API , NodeJS et Express.",
+        "description": "J'ai cr\u00e9e cette application pour apprendre les bases de Restful API , je l'ai test\u00e9 avec Postman et je l'ai utilis\u00e9 pour cr\u00e9er l'application web HogwartsLibrary.",
+        "image": "PortfoliosAPP/images/Capture.png",
+        "url": "PortfoliosAPP/images/sans-titre-3_W24Tbmv1.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 5,
+    "fields": {
+        "title": "Movie Mania",
+        "technologie": "ReactJS ,JSX",
+        "description": "J'ai cr\u00e9e ce site pour apprendre \u00e0 utiliser ReactJS et JSX .                            L'utilisateur peut consulter la liste des films les plus populaires et chercher un film pr\u00e9cis.",
+        "image": "PortfoliosAPP/images/Capture_1.png",
+        "url": "PortfoliosAPP/images/final_628506321bdedd18ca8d85b2_110208.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 6,
+    "fields": {
+        "title": "Gestion de librairie",
+        "technologie": "Entity Framework Core",
+        "description": "Ce projet est un site web de gestion d'une librairie .Le libraire peut g\u00e9rer les livres , les membres , les pr\u00eats et aussi consulter son tableau de bord.",
+        "image": "PortfoliosAPP/images/Capture_3_QwizipX.png",
+        "url": "PortfoliosAPP/images/final_628520a71444610081c91eb5_233337.mp4"
+    }
+},
+{
+    "model": "PortfoliosAPP.project",
+    "pk": 7,
+    "fields": {
+        "title": "Portfolio personnel",
+        "technologie": "Django",
+        "description": "J'ai cr\u00e9e le site actuel avec le framework Django de Python pour montr\u00e9r mes projets personnels et ceux que j'ai r\u00e9alis\u00e9s lors de mon parcours acad\u00e9mique.",
+        "image": "PortfoliosAPP/images/Capturesa_1.png",
+        "url": "PortfoliosAPP/images/final_628506321bdedd18ca8d85b2_110208_RujJb4l.mp4"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2022-05-09T01:14:01.906",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Project object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2022-05-09T01:28:40.041",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Project object (1)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2022-05-09T21:28:24.656",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Project object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2022-05-09T23:33:21.806",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "php",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2022-05-09T23:33:38.843",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\", \"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2022-05-09T23:34:02.202",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "node",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2022-05-11T02:10:34.876",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "node",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2022-05-11T02:44:55.568",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "node",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2022-05-11T02:48:42.769",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2022-05-11T02:52:42.467",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Technologie\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2022-05-11T02:54:31.319",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2022-05-11T02:54:57.483",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2022-05-11T03:01:29.850",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2022-05-11T03:16:02.198",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2022-05-11T03:17:57.371",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2022-05-11T03:18:30.233",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2022-05-11T03:18:41.273",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "php",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\", \"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2022-05-11T03:19:43.827",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2022-05-11T03:20:52.911",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2022-05-11T03:21:17.684",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2022-05-11T03:22:31.020",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2022-05-11T22:27:46.722",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2022-05-11T22:27:54.610",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2022-05-11T22:28:02.284",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "php",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2022-05-11T22:32:20.234",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2022-05-11T22:32:31.577",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "rest",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2022-05-11T22:32:40.052",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2022-05-11T22:32:50.186",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "php",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2022-05-11T22:39:19.713",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2022-05-11T22:40:31.452",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2022-05-14T14:01:22.427",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Technologie\", \"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2022-05-14T14:06:48.721",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2022-05-14T14:09:06.010",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2022-05-14T14:21:55.141",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2022-05-14T15:30:48.901",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Technologie\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2022-05-14T16:55:45.027",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "API des personnages Harry Potter",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2022-05-14T16:56:14.392",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "API des personnages Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Technologie\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2022-05-14T16:57:19.779",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "API des personnages Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2022-05-14T16:57:35.109",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "API des personnages Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2022-05-14T16:57:47.203",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "2",
+        "object_repr": "HogwartsLibrary",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2022-05-14T18:33:46.993",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "3",
+        "object_repr": "Calculateur d'ndice de Masse Corporelle (IMC)",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\", \"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2022-05-14T18:35:27.682",
+        "user": [
+            "thiziri"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "4",
+        "object_repr": "API des personnages Harry Potter",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Technologie\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2022-05-15T18:48:44.695",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Location de films",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Technologie\", \"Description\", \"Image\", \"Url\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2022-05-18T10:47:27.591",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "5",
+        "object_repr": "Movie Mania",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2022-05-18T12:51:06.801",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "6",
+        "object_repr": "Gestion de librairie",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2022-05-18T13:05:19.805",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "6",
+        "object_repr": "Gestion de librairie",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2022-05-18T13:23:20.655",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Location de films",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2022-05-18T13:24:04.192",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "Location de films",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2022-05-18T13:30:15.591",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "7",
+        "object_repr": "Portfolio Personnel",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2022-05-18T13:31:34.234",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "7",
+        "object_repr": "Portfolio personnel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2022-05-18T13:35:44.076",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "MyMovies",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2022-05-18T13:36:14.563",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "1",
+        "object_repr": "MyMovies",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2022-05-18T13:37:23.196",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "5",
+        "object_repr": "Movie Mania",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2022-05-18T13:37:40.733",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "5",
+        "object_repr": "Movie Mania",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2022-05-18T13:38:31.145",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "5",
+        "object_repr": "Movie Mania",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2022-05-18T13:39:18.553",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "7",
+        "object_repr": "Portfolio personnel",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2022-05-18T14:01:04.774",
+        "user": [
+            "THIZIRI1999"
+        ],
+        "content_type": [
+            "PortfoliosAPP",
+            "project"
+        ],
+        "object_id": "6",
+        "object_repr": "Gestion de librairie",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Image\"]}}]"
+    }
+}
+]
