@@ -2,7 +2,7 @@ from django.shortcuts import render ,get_object_or_404
 from .models import Project
 # Create your views here.
 def home(request):
-    projects =Project.objects.all()
+    projects =Project.objects.all().order_by('-id')
     return render (request,'PortfoliosAPP/home.html',{'projects':projects})
 def detail(request,idProjet):
     project=get_object_or_404(Project,pk=idProjet)
