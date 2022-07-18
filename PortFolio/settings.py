@@ -26,7 +26,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'm^s5q0@2&&s&sqhnqo36!kf-6l31+l+*liwj2ic4yyxnd$d&yx'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['thiziribhdportfolio.herokuapp.com']
 
@@ -140,6 +140,6 @@ MEDIA_URL='/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 LOGIN_URL='/loginUser'
-django_heroku.settings(locals())
+#django_heroku.settings(locals())
 
 
